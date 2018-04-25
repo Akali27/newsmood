@@ -1,0 +1,3 @@
+1- CBS has highest positive sentiment 
+2- NyTimes has the most negative sentiment 
+3- FoxNews has the lowest positive sentiment 
